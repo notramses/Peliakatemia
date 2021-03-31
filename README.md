@@ -1,2 +1,3 @@
 # Peliakatemia
-koulu homma
+Koulu homma
+Mika, Leevi
